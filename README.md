@@ -1,2 +1,2 @@
 # daily-recaps
-Consolidation of our learning from the previous day
+Consolidation of key hints and tricks from the previous day

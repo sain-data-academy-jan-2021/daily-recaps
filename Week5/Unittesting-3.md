@@ -1,4 +1,4 @@
-# Daily Recap (9th Feb)
+# Daily Review (9th Feb)
 ### Unittesting 3:
 - Testing Frameworks
 - Mocking
@@ -16,6 +16,7 @@
 
 **Patching**
 > "Patching allows you to mock the output you define in another module"
+
 
 ---
 
