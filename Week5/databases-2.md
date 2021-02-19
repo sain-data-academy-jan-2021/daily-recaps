@@ -1,5 +1,5 @@
 # Daily Review (11th Feb)
-### Databases 3:
+### Databases 2:
 - SQL Joins
 - SQL Functions
 - Database relationships
